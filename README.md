@@ -1,5 +1,7 @@
+
+![image description](relative/path/in/repository/to/image.svg)
 <p align="center">
-  <img src="" width="350" alt="accessibility text">
+ <img src="relative/path/in/repository/to/image.svg" width="128"/>
 </p>
 
 <h3>Hi there 👋</h3>
