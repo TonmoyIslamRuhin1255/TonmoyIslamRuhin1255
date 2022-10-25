@@ -19,7 +19,7 @@ I'm Tonmoy, Full Stack Web Application Developer.
 <span>💻 Most used line of code console.log("hello world").</span> <br>
 <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
 <span>📧 How to reach me: nazmuldiu8@gmail.com.</span> <br>
-<span>🔭 I’m currently working on PHP Laravel, Javascript React.</span> <br>
+<span>🔭 I’m currently working on PHP Laravel, Javascript React, Html Css bootstrap.</span> <br>
 </p>
 
 <h3>⚡ Technology I code with</h3>
