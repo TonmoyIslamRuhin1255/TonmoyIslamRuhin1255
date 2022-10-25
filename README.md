@@ -5,11 +5,6 @@ I'm Tonmoy, Full Stack Web Application Developer.
 
 <h3>☕ Connect with me!</h3>
 <p>
-<a href="https://www.facebook.com/profile.php?id=100006948045273" target="_blank">
-<img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
-</a>
-
-
 <a href="https://www.facebook.com/mdtonmoyislamruhin">
 <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
@@ -18,7 +13,7 @@ I'm Tonmoy, Full Stack Web Application Developer.
 <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
 <span>💻 Most used line of code console.log("hello world").</span> <br>
 <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
-<span>📧 How to reach me: nazmuldiu8@gmail.com.</span> <br>
+<span>📧 How to reach me: mdruhinahmed93@gmail.com.</span> <br>
 <span>🔭 I’m currently working on PHP Laravel, Javascript React, Html Css bootstrap.</span> <br>
 </p>
 
@@ -29,9 +24,6 @@ I'm Tonmoy, Full Stack Web Application Developer.
 </a>
 <a href="#">
 <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
-</a>
-<a href="#">
-<img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
 <a href="#">
 <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
