@@ -67,7 +67,7 @@ along with my leadership abilities to meet client needs and exceed their expecta
 </thead>
 <tbody>
 <tr>
-<td><a href="https://tonmoyislamruhin1255.github.io/Medinova/" rel="nofollow"></a></td>
+<td><a href="https://tonmoyislamruhin1255.github.io/Medinova/" rel="nofollow"> Medinova</a></td>
 <td>Medical,Hospitals Fully Responsive Website with Fast Loading.</td>
 </tr>
 <tr>
