@@ -77,7 +77,7 @@ along with my leadership abilities to meet client needs and exceed their expecta
 <td>Medical,Hospitals Fully Responsive Website with Fast Loading.</td>
 </tr>
 <tr>
-<td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">.Assure Group</a></td>
+<td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Assure Group</a></td>
 <td>Assura group a real estate business official website development.</td>
 </tr>
 <tr>
