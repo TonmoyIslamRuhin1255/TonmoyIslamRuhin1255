@@ -29,6 +29,9 @@ I'm Tonmoy, Full Stack Web Application Developer.
 <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
 <a href="#">
+<img src ="https://img.shields.io/static/v1?message=React.js&logo=react&labelColor=61DAFB&color=61DAFBc&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+</a>
+<a href="#">
 <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
 <a href="#">
